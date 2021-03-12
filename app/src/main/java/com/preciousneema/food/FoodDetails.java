@@ -33,6 +33,7 @@ public class FoodDetails extends AppCompatActivity {
         name = intent.getStringExtra("title");
         price = intent.getStringExtra("price");
         rating = intent.getStringExtra("description");
+
         imageUrl = intent.getIntExtra("photo",0);
 
         imageView = findViewById(R.id.imageView5);
