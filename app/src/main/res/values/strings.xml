@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="search">Search...</string>
+    <string name="popular_this_week">Popular this Week</string>
+    <string name="recommened_for_you">Recommened for You</string>
+    <string name="all_menu_items">All Menu Items</string>
+    <string name="indonesian_food">Indonesian Food</string>
+    <string name="recommended_name">Rendang</string>
+    <string name="todo">TODO</string>
+</resources>
